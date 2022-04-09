@@ -1,1 +1,1 @@
-![image](./Slugs/paths/jira.svg) 
+![image](./paths/jira.svg) 
